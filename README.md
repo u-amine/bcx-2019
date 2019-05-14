@@ -21,7 +21,7 @@ There is an HTTPS JSON-RPC server listening on port 8545 on each of the followin
 ### Methods
 
 **createWallet**
-* params: _none_
+* params: []
 * result: { publicKey _(string)_, privateKey _(string)_ }
 
 **sendTransaction**
@@ -29,7 +29,7 @@ There is an HTTPS JSON-RPC server listening on port 8545 on each of the followin
 * result: confirmation _or_ error
 
 **getDAG**
-* params: _none_
+* params: []
 * result: set of vertices _(array)_
 
 **getBalance**
