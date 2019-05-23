@@ -1,4 +1,4 @@
-# Doc
+# Documentation
 This is the official documentation of the ZkSystems Technology. 
 
 ## JSON-RPC Interface
@@ -13,10 +13,10 @@ On a test network we run four blockchain nodes that expose a JSON-RPC. Clients (
 ### The JSON-RPC Server
 There is an HTTPS JSON-RPC server listening on port 8545 on each of the following machines:
 
-* bcx-1: 130.61.92.142
-* bcx-2: 130.61.56.127
-* bcx-3: 130.61.89.111
-* bcx-4: 130.61.57.122
+* bcx-1: 130.61....
+* bcx-2: 130.61....
+* bcx-3: 130.61....
+* bcx-4: 130.61....
 
 ### Methods
 
